@@ -1,0 +1,25 @@
+{
+  "name": "cocotte-q",
+  "version": "0.1.0",
+  "description": "message queue",
+  "main": "lib/q.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yukik/cocotte-q.git"
+  },
+  "keywords": [
+    "cocotte"
+  ],
+  "author": "Yuki Kurata <yuki.kurata@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yukik/cocotte-q/issues"
+  },
+  "homepage": "https://github.com/yukik/cocotte-q#readme"
+}
